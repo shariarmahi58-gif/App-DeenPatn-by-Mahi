@@ -1,0 +1,8 @@
+{
+  "name": "DeenPath by Mahi",
+  "description": "A modern and user-friendly Islamic app for Bangladesh, featuring daily prayer times, Quran, Hadith, Duas, and a Qibla compass.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
